@@ -1,0 +1,9 @@
+{
+	"DEVELOPMENT_DB": "Development DB Server URI",
+	"DEVELOPMENT_DB_NAME": "Development DB Name",
+	"DEVELOPMENT_DEPLOYMENT": "local",
+
+	"DB": "Production DB Server URI",
+	"DB_NAME": "Production DB Name",
+	"DEPLOYMENT": "Production Deployment Platform & Change accordingly in the mongoose.js"
+}
