@@ -1,3 +1,4 @@
+//Displays the home page
 module.exports.homepage = (req, res) => {
 	return res.status(200)
 		.send(`<h1>Welcome to the RESTful CRUD API Homepage 🚀</h1>
