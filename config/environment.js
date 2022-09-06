@@ -17,8 +17,12 @@ const production = {
 	deployment: process.env.DEPLOYMENT,
 };
 
+process.env["NODE_ENV"] = "production";
+console.log(process.env.NODE_ENV);
+
 //Exporting the Environment Variables
 module.exports =
 	eval(process.env.NODE_ENV) == undefined
 		? development
 		: eval(process.env.NODE_ENV);
+

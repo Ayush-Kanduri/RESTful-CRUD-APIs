@@ -68,7 +68,7 @@ For any issues related to the project, raise an ISSUE in the respective Reposito
 
 ## 🔗 Links
 
-> ## Checkout the Website [Web Application](https://restful-crud-apis.herokuapp.com/)
+> ## Checkout the Website [Web Application](https://restful-crud-api.onrender.com)
 
 <br/>
 
